@@ -1,5 +1,11 @@
-## 👋 Damith Dilanka
-`💻 I'm a web/mobile application developer 💻`
+<p align="center">
+  <img src="https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif" alt="Hacker" width="70"/>
+  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Damith Dilanka</h1>
+</p>
+
+<p align="center"> 
+  <code>💻 I'm a web/mobile application developer 💻</code>
+</p>
 
 As a passionate Software Engineer with a deep love for crafting efficient, scalable, and user-friendly software solutions, my journey in the tech world is driven by a relentless curiosity and a commitment to continuous learning. I thrive in solving complex problems, optimizing algorithms, building robust backend systems, or creating seamless user interfaces. I'm particularly passionate about open-source projects and enjoy contributing to the community by sharing my knowledge and collaborating with other developers.
 
